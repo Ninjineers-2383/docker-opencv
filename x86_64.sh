@@ -1,1 +1,1 @@
-docker build -t ghcr.io/ninjineers-2383/docker-opencv:4.7.0-py3.12-x86_64 -f Dockerfile-x86_64 .
+docker build -t ghcr.io/ninjineers-2383/docker-opencv:4.8.1-py3.11-x86_64 -f Dockerfile-x86_64 .
